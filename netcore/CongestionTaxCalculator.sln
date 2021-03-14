@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTaxCalculator.Service", "src\congestion-tax-calculator-net-core\CongestionTaxCalculator.Service.csproj", "{B922B591-A715-48C5-A704-5323C16E2DCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTaxCalculator.Service.Tests", "src\congestion-tax-calculator-net-core.Tests\CongestionTaxCalculator.Service.Tests.csproj", "{7F298324-ADC5-4918-9547-0AAF550FFEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B922B591-A715-48C5-A704-5323C16E2DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B922B591-A715-48C5-A704-5323C16E2DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B922B591-A715-48C5-A704-5323C16E2DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B922B591-A715-48C5-A704-5323C16E2DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F298324-ADC5-4918-9547-0AAF550FFEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F298324-ADC5-4918-9547-0AAF550FFEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F298324-ADC5-4918-9547-0AAF550FFEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F298324-ADC5-4918-9547-0AAF550FFEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9E436BB-11A6-450B-BA5D-FCA4BB592309}
+	EndGlobalSection
+EndGlobal
